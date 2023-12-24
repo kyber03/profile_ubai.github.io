@@ -1,0 +1,28 @@
+*{
+    margin: 10px;
+    background-color:#112750;
+    color: #fff;
+    font-family: monospace;
+}
+.skills{
+    display: flex;
+    flex-direction: row;
+    background-color:#fff;
+    justify-content: left;
+    align-items: start;
+    
+}
+
+table th tr td{
+    width: 100%;
+    border: 2px solid;
+}
+
+.organizations li{
+    list-style: none;
+}
+
+.organizations th{
+    text-align: center;
+    text-decoration: underline;
+}
